@@ -1,0 +1,12 @@
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\bin\Debug\KompasTabl.exe
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\bin\Debug\KompasTabl.pdb
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.Form1.resources
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.Properties.Resources.resources
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.csproj.GenerateResource.cache
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.csproj.CoreCompileInputs.cache
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.exe
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.pdb
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.csproj.ResolveComReference.cache
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.csproj.CopyComplete
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\bin\Debug\KAPITypes.dll
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.csproj.AssemblyReference.cache
