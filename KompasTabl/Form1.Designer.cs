@@ -913,7 +913,7 @@ namespace KompasTabl
             this.MaximumSize = new System.Drawing.Size(400, 800);
             this.MinimumSize = new System.Drawing.Size(300, 600);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "UML таблица";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);

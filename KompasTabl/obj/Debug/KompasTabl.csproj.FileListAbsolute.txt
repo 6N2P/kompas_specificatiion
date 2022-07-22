@@ -7,6 +7,7 @@ C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\Kompa
 C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.exe
 C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.pdb
 C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.csproj.ResolveComReference.cache
-C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.csproj.CopyComplete
-C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\bin\Debug\KAPITypes.dll
 C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\KompasTabl.csproj.AssemblyReference.cache
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\Ivanovsv\Desktop\Lessons\Compas3D\KompasTabl\KompasTabl\obj\Debug\Interop.KompasAPI7.dll

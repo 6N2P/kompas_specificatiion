@@ -8,8 +8,8 @@ using System.Text;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using Kompas6API5;
-using KGAXLib;
-using Kompas6Constants;
+//using KGAXLib;
+//using Kompas6Constants;
 using KompasAPI7;
 using KompasTabl;
 

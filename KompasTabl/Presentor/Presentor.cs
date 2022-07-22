@@ -121,7 +121,7 @@ namespace KompasTabl.Presentor
                 }
                                 
                 doc.ksLineSeg(50, firstPointY - heighTabl, width, firstPointY - heighTabl, 1);
-                heighTabl = heighTabl + heightLine;
+             //   heighTabl = heighTabl + heightLine;
             }
             //else
             //{
